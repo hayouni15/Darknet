@@ -1,4 +1,4 @@
-![Darknet Logo](http://www.mirsurg.eu/IMAGES/2_THALES_500x121_transp.gif)
+
 
 # Darknet #
 Darknet is an open source neural network framework written in C and CUDA. It supports CPU and GPU computation.
